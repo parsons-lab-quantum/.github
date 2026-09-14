@@ -4,7 +4,7 @@
 
 We mostly shine lasers and microwaves at atoms and atom-like systems to control their quantum states. We are currently 
 focused on neutral-atom quantum computing and spin-defect quantum memories in diamond. This organization holds the code 
-behind it.
+behind our work.
 
 The diamond quantum memory project code and our lab forks of ARTIQ and QICK live in the [QT3 organization](https://github.com/qt3uw).
 
